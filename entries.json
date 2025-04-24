@@ -1,0 +1,16 @@
+[
+    {
+        "date": "2025-04-24 22:42",
+        "mood": "happy",
+        "journal": "Because I'am Happy",
+        "analysis": "positive",
+        "suggestion": "Keep up the great mood! Maybe share your joy with someone."
+    },
+    {
+        "date": "2025-04-24 22:44",
+        "mood": "c",
+        "journal": "feeling sleepy",
+        "analysis": "neutral",
+        "suggestion": "Track your mood for a few days to detect patterns."
+    }
+]
